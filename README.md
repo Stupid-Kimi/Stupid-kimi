@@ -9,19 +9,19 @@
     <img src="files/running.png" />
   </div>
   <div>
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=zjx-kimi&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Stupid-Kimi&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjx-kimi&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stupid-Kimi&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   </div>
   <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=zjx-kimi" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Stupid-Kimi" />
   </div>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zjx-kimi" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stupid-Kimi" />
   </div>
   <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zjx-kimi&bg_color=000000&color=01d7f4&line=ff0000&point=412ed1&area=true&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Stupid-Kimi&bg_color=000000&color=01d7f4&line=ff0000&point=412ed1&area=true&hide_border=true">
   </div>
   <img width="36%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
   <div>🌐网站信息</div>
@@ -40,7 +40,7 @@
   <img alt="C++ Badge" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&amp;logoColor=fff&amp;style=flat" />
   <div>🌐常用的账号</div>
   <div>
-    <img src="https://komarev.com/ghpvc/?username=zjx-kimi&label=Views&color=0e75b6&style=flat" alt="">
+    <img src="https://komarev.com/ghpvc/?username=Stupid-Kimi&label=Views&color=0e75b6&style=flat" alt="">
     <a href="http://oj.cpolar.top/">
       <img src="http://img.shields.io/badge/Online--Judge-OJ-blue" alt="">
     </a>
@@ -50,7 +50,7 @@
     <a href="https://codeforces.com/profile/kimi2011">
       <img src="http://img.shields.io/badge/CodeForces-kimi2011-brightgreen" alt="">
     </a>
-    <a href="https://github.com/zjx-kimi">
+    <a href="https://github.com/Stupid-Kimi">
       <img src="http://img.shields.io/badge/Github-zjx--kimi-black" alt="">
     </a>
     <a href="mailto:1345098180@qq.com">
